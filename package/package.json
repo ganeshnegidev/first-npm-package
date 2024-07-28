@@ -1,0 +1,22 @@
+{
+  "name": "is-negi",
+  "version": "1.0.0",
+  "description": "Is the string negi?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshnegidev/first-npm-package.git"
+  },
+  "keywords": [
+    "negi"
+  ],
+  "author": "Ganesh Negi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshnegidev/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/ganeshnegidev/first-npm-package#readme"
+}

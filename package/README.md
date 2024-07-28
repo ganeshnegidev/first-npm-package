@@ -1,1 +1,1 @@
-README
+# Ganesh Negi first package npm
